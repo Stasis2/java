@@ -3,6 +3,6 @@ package com.itProger;
 
 
 public class Some {
-    System.out.println();
+    System.out.println("ergsergeg");
 
 }
